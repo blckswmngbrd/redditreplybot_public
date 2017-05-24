@@ -1,0 +1,9 @@
+##Create a praw.ini (in workingdirectory) 
+and a config.py file ( in working directory that mirrors below) 
+
+
+[#Selected USER AGENT ID]
+client_id = "(Reddit supplied Client Id)"
+client_secret = "(Reddit Supplied Client Secret)"
+username = "(Reddit username)"
+password = "(Reddit password)"
